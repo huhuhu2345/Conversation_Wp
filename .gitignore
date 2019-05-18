@@ -13,9 +13,11 @@
 task/.idea/*
 *.xml
 
-
 blog-codes/*
 ChatRobot/*
+baidu_qa_en_process/data/*
+
+
 #  Local .terraform directories
 **/.terraform/*
 **/w2v_model/
