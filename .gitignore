@@ -12,3 +12,46 @@
 *.csv
 task/.idea/*
 *.xml
+
+
+blog-codes/*
+ChatRobot/*
+#  Local .terraform directories
+**/.terraform/*
+**/w2v_model/
+**/saved/
+**/runs/
+**/.idea/
+**/__pycache__/
+**/.ipynb_checkpoints/
+**/summarys/
+model/
+data/
+**/model/
+**/data/
+
+# .tfstate files
+*.tfstate
+*.tfstate.*
+
+# .tfvars files
+*.tfvars
+*.hdf5
+*.json
+*.txt
+*.csv
+task/.idea/*
+*.xml
+*.zip
+*.rar
+*.bin
+*.vec
+*.model
+*.gz
+*.bz2
+*.word
+*.pkl
+*.tsv
+*.neg
+*.pos
+
